@@ -1,2 +1,2 @@
 # ctf-writeups
-Here you can find my solutions for the challenges that I solved in various CTF competitions.
+Here you can find my solutions to the challenges I solved in CTF competitions.
